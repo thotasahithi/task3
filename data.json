@@ -1,0 +1,71 @@
+{
+	"profiles":[
+		{
+			"basics":{
+				"name":"sahithi",
+				"role":"Student",
+				"email":"thotasahithi2001@gmail.com",
+				"mobile":"1215488956",
+				"gender":"female",
+				"address":"marlapadu"
+
+			},
+			"summery":[
+				"studying in lbrce clg in cse department."
+			],
+			"education":[
+				{
+                    "degree":"B-Tech (Computer Science and Engineering)",
+                    "institute":"Lakireddy balireddy College of Engineering",
+                    "result":"93%"
+				},
+				{
+                    "degree":"Intermediate in MPC",
+                    "institute":"narayana Junior College",
+                    "result":"96%"
+				},
+				{
+                    "degree":"S.S.C",
+                    "institute":"DAV school",
+                    "result":"100%"
+				}
+
+
+			]
+		},
+	    {
+	    	"basics":{
+				"name":"sahi",
+				"role":"Student",
+				"email":"sahithota03@gmail.com",
+				"mobile":"2146985431",
+				"gender":"female",
+				"address":"vijayawada,Andhra pradesh"
+
+			},
+			"summery":[
+				"studying in lbrce clg in cse department."
+			],
+			"education":[
+				{
+                    "degree":"B-Tech (Computer Science and Engineering)",
+                    "institute":"Lakireddy balireddy College of Engineering",
+                    "result":"92%"
+				},
+				{
+                    "degree":"Intermediate in MPC",
+                    "institute":"narayana College",
+                    "result":"95%"
+				},
+				{
+                    "degree":"S.S.C",
+                    "institute":"DAV school",
+                    "result":"94%"
+				}
+
+
+			]
+	    }
+		
+	]
+}
